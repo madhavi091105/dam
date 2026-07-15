@@ -1,0 +1,33 @@
+# Virtual environments
+my_clean_env/
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large / model files
+*.dll
+*.pth
+*.pt
+*.h5
+*.onnx
+*.pkl
+
+# Data
+*.csv
+*.jpg
+*.jpeg
+*.png
+
+# Env variables
+.env
+
+# IDE
+.vscode/
+.idea/
